@@ -35,18 +35,24 @@ For more, see the full [PERMISSIONS.md](PERMISSIONS.md) file.
 
 ### Location (When In Use)
 
+```xml
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>Your location is used to show trees and plants nearby on the map.</string>
+```
 
 ### Photo Library
 
+```xml
 <key>NSPhotoLibraryUsageDescription</key>
 <string>Choose photos from your library for analysis and sharing in the app.</string>
+```
 
 ### Microphone
 
+```xml
 <key>NSMicrophoneUsageDescription</key>
 <string>We need microphone access so you can record audio notes.</string>
+```
 
 For more permission keys and examples, check out [PERMISSIONS.md](PERMISSIONS.md).
 

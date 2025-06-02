@@ -27,8 +27,11 @@ For more, see the full [PERMISSIONS.md](PERMISSIONS.md) file.
 
 ### Camera
 
+```xml
 <key>NSCameraUsageDescription</key>
 <string>Allows you to take photos for instant identification and saving to your profile.</string>
+```
+
 
 ### Location (When In Use)
 

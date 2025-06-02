@@ -20,9 +20,33 @@ These samples come from my own apps and research. I’m sharing them here so oth
 
 ---
 
-## The Descriptions
+## Examples
 
-See the full organized list in [PERMISSIONS.md](PERMISSIONS.md).
+Below are a few sample Info.plist entries for common iOS permissions.  
+For more, see the full [PERMISSIONS.md](PERMISSIONS.md) file.
+
+### Camera
+
+<key>NSCameraUsageDescription</key>
+<string>Allows you to take photos for instant identification and saving to your profile.</string>
+
+### Location (When In Use)
+
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Your location is used to show trees and plants nearby on the map.</string>
+
+### Photo Library
+
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Choose photos from your library for analysis and sharing in the app.</string>
+
+### Microphone
+
+<key>NSMicrophoneUsageDescription</key>
+<string>We need microphone access so you can record audio notes.</string>
+
+For more permission keys and examples, check out [PERMISSIONS.md](PERMISSIONS.md).
+
 
 ---
 

@@ -1,12 +1,12 @@
 # iOS Permissions Descriptions
 
-A collection of sample user-facing descriptions for every permission on iOS. As a developer, I often found myself rewriting Info.plist permission strings and worrying if they were clear enough for users and App Store Review. This repo puts together concrete examples for all the common permissions, so you can ship faster and avoid confusion or rejections.
+A collection of sample user-facing descriptions for permissions on iOS. As a developer, I often found myself rewriting permission strings and worrying if they were clear enough for users and App Store Review. This repo puts together concrete examples for all the common permissions, so you can ship faster and avoid confusion or rejections.
 
 ---
 
 ## Why this exists
 
-As an indie developer with more than 10 apps in the App Store, I know it’s easy to spend too much time thinking about how to word Info.plist descriptions—or to forget some edge cases. App Review can be strict about vague or generic descriptions, and users appreciate clear, honest explanations too.
+As an indie developer with more than 10 apps in the App Store, I know it’s easy to spend too much time thinking about how to word descriptions—or to forget some edge cases. App Review can be strict about vague or generic descriptions, and users appreciate clear, honest explanations too.
 
 These samples come from my own apps and research. I’m sharing them here so other developers, especially those working solo or on small teams, can save time and avoid mistakes.
 
@@ -61,9 +61,8 @@ For more permission keys and examples, check out [PERMISSIONS.md](PERMISSIONS.md
 
 ## Resources I keep handy
 
-- [Apple: Requesting Permission (Official Docs)](https://developer.apple.com/documentation/bundleresources/information_property_list/nsprivacy_accessed_api_usage_description)
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
-- [Human Interface Guidelines – Privacy](https://developer.apple.com/design/human-interface-guidelines/foundations/privacy/)
+- [Human Interface Guidelines – Privacy](https://developer.apple.com/design/human-interface-guidelines/privacy)
 
 ---
 
